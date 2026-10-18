@@ -1,0 +1,11 @@
+{
+  "checksum_url": "https://yourimvp.github.io/satellite-releases/downloads/v1.1.2/Satellite-1.1.2.dmg.sha256",
+  "data_schema_version": 2,
+  "download_url": "https://yourimvp.github.io/satellite-releases/downloads/v1.1.2/Satellite-1.1.2.dmg",
+  "release_notes_url": "https://yourimvp.github.io/satellite-releases/downloads/v1.1.2/RELEASE_NOTES-1.1.2.md",
+  "rollback_safe": true,
+  "schema_version": 1,
+  "signature_url": "https://yourimvp.github.io/satellite-releases/downloads/v1.1.2/Satellite-1.1.2.dmg.sig",
+  "status": "supported",
+  "version": "1.1.2"
+}
