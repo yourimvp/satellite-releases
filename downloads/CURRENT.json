@@ -1,0 +1,9 @@
+{
+  "current_version": "1.1.0",
+  "known_good_version": "1.1.0",
+  "release_manifest": "v1.1.0/release.json",
+  "release_manifest_sha256": "4f629670c66ab69e5a0a1640e999aa2032999aac7e46677b487956caf74e9def",
+  "release_manifest_signature": "v1.1.0/release.json.sig",
+  "schema_version": 1,
+  "update_instructions": "Read the release notes, download the signed DMG, replace Satellite.app in Applications, then restart Satellite."
+}
