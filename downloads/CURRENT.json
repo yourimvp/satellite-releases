@@ -1,9 +1,9 @@
 {
-  "current_version": "1.1.2",
+  "current_version": "1.1.3",
   "known_good_version": "1.1.0",
-  "release_manifest": "v1.1.2/release.json",
-  "release_manifest_sha256": "b8d8dedde274dc5c61f26700ae0b4cb97dd0906973893cf716efd82521a9168e",
-  "release_manifest_signature": "v1.1.2/release.json.sig",
+  "release_manifest": "v1.1.3/release.json",
+  "release_manifest_sha256": "23bd97495ae082993a174f0d50ac09bd4fdbe6e91af408202ec287ffdeffb43b",
+  "release_manifest_signature": "v1.1.3/release.json.sig",
   "schema_version": 1,
   "update_instructions": "Read the release notes, download the signed DMG, replace Satellite.app in Applications, then restart Satellite."
 }
